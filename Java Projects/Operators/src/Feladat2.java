@@ -4,7 +4,7 @@ public class Feladat2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Give us 3 integer number");
+        System.out.println("Give us 3 integer");
         int num1 = scanner.nextInt();
         int num2 = scanner.nextInt();
         int num3 = scanner.nextInt();

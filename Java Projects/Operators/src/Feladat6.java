@@ -8,10 +8,10 @@ public class Feladat6 {
         int num = scanner.nextInt();
 
         if (num % 7 == 0){
-            System.out.println("The number can be divided with 7");
+            System.out.println("The number can be divided by 7");
         }
         else {
-            System.out.println("The number cannot be divided with 7");
+            System.out.println("The number cannot be divided by 7");
         }
     }
 }
