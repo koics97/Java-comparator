@@ -8,13 +8,13 @@ public class Feladat7 {
         double num = scanner.nextDouble();
 
         if (num * 6 > 100){
-            System.out.println("The 6 times of the number value is greater then 100");
+            System.out.println("The 6 times of the given number is greater then 100");
         }
         else if (num * 6 < 100){
-            System.out.println("The 6 times of the number value is lesser then 100");
+            System.out.println("The 6 times of the given number is lesser then 100");
         }
         else{
-            System.out.println("The 6 times of the number value is equal with 100");
+            System.out.println("The 6 times of the given number is equal with 100");
         }
     }
 }
